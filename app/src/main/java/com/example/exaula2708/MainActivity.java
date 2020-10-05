@@ -23,7 +23,8 @@ Button btSomar, btSubtrair, btMultiplicar, btDividir;
         subtrair();
         multiplicar();
         dividir();
-
+//Testes github
+        
     }
     private void carregaWidgets(){
         edNum01=(EditText)findViewById(R.id.edtNum01);
